@@ -1,2 +1,3 @@
 # location
-Mappable location which can be related to agents, resources, etc.
+
+**location has moved to https://lab.allmende.io/valueflows/location**
